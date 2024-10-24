@@ -2,4 +2,5 @@
 h2 {
   border-bottom: 3px solid #aaa;
   color: #aaa;
+  text-emphasis: none;
 }
